@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+h1 {
+text-align: center;
+}
+img {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+}
+a {
+  padding: 10px;
+text-align: center;
+background-color: brown;
+}
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+ #feartured-property {
+  width: 800px;
+  text-align: center;
+}
+.delails {
+  float: right;
+  background-color: aqua;
+}
